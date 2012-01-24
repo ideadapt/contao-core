@@ -25,3 +25,5 @@ system/config/dcaconfig.php
 system/config/initconfig.php
 system/config/langconfig.php
 system/config/localconfig.php
+system/config/localconfig.2-11-x.php
+system/config/localconfig.master.php
